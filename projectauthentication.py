@@ -8,17 +8,17 @@ from email.mime.text import MIMEText
 
 
 # Test Domain
-domain = "projectauthentication.com"
+domain = "thelncproject.eu"
 # Test Email Sender
-sender = "outgoing@projectauthentication.com"
+sender = "emily.byrne@thelncproject.eu"
 # Test Email Recipients
-recipients = ["testrecipient001@gmail.com", "testrecipient002@outlook.com", "testrecipient003@yahoo.com"]
+recipients = ["thelncproject3@gmail.com", "thelncproject3@outlook.ie", "thelncproject3@yahoo.com"]
 
 # Valid SMTP Login
 outlook_smtp_server = "smtp-mail.outlook.com"
 outlook_smtp_port = 587
 outlook_smtp_user = sender
-outlook_smtp_password = "dwyxklkzjyjbsbkm"
+outlook_smtp_password = "cmccsnrknxkdhnpz"
 # "wcpsxbhsylvjspgc"
 # sender@projectauthentication.com app password: "dzypbjxlclscnjcy"
 
@@ -124,7 +124,7 @@ def check_dmarc(domain):
 def check_gmail_status(subject):
     try:
         mail = imaplib.IMAP4_SSL("imap.gmail.com")
-        mail.login("testrecipient001@gmail.com","egexwluiwcmidhfk")
+        mail.login("testrecipient001@gmail.com","revqvmbccpwuejlu")
 
         # Check Spam folder first
         status, _ = mail.select("[Gmail]/Spam")
@@ -253,8 +253,8 @@ def main():
 
     test_deployment_module(test_phase)
 
-    #print("\n--- Waiting 5 Minutes Before Checking Test Recipient Inboxes ---")
-    #time.sleep(300)
+    print("\n--- Waiting 5 Minutes Before Checking Test Recipient Inboxes ---")
+    time.sleep(300)
 
     test_result_module(test_phase)
 
