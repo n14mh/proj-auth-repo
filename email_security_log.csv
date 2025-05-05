@@ -1,0 +1,36 @@
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient001@gmail.com,P1-TC1-LE1,Not Found
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient001@gmail.com,P1-TC1-LE2,Inbox
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient001@gmail.com,P1-TC1-LE3,Inbox
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient001@gmail.com,P1-TC2-PE1,Spam
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient001@gmail.com,P1-TC2-PE2,Spam
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient001@gmail.com,P1-TC2-PE3,Spam
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient002@outlook.com,P1-TC1-LE1,Check Manually
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient002@outlook.com,P1-TC1-LE2,Check Manually
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient002@outlook.com,P1-TC1-LE3,Check Manually
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient002@outlook.com,P1-TC2-PE1,Check Manually
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient002@outlook.com,P1-TC2-PE2,Check Manually
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient002@outlook.com,P1-TC2-PE3,Check Manually
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient003@yahoo.com,P1-TC1-LE1,Check Manually
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient003@yahoo.com,P1-TC1-LE2,Check Manually
+2025-05-05 10:41:32,1,N,N,N,1,testrecipient003@yahoo.com,P1-TC1-LE3,Check Manually
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient003@yahoo.com,P1-TC2-PE1,Check Manually
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient003@yahoo.com,P1-TC2-PE2,Check Manually
+2025-05-05 10:41:32,1,N,N,N,2,testrecipient003@yahoo.com,P1-TC2-PE3,Check Manually
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient001@gmail.com,P1-TC1-LE1,Spam
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient001@gmail.com,P1-TC1-LE2,Spam
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient001@gmail.com,P1-TC1-LE3,Spam
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient001@gmail.com,P1-TC2-PE1,Spam
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient001@gmail.com,P1-TC2-PE2,Spam
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient001@gmail.com,P1-TC2-PE3,Spam
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient002@outlook.com,P1-TC1-LE1,Check Manually
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient002@outlook.com,P1-TC1-LE2,Check Manually
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient002@outlook.com,P1-TC1-LE3,Check Manually
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient002@outlook.com,P1-TC2-PE1,Check Manually
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient002@outlook.com,P1-TC2-PE2,Check Manually
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient002@outlook.com,P1-TC2-PE3,Check Manually
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient003@yahoo.com,P1-TC1-LE1,Check Manually
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient003@yahoo.com,P1-TC1-LE2,Check Manually
+2025-05-05 11:10:55,1,N,N,N,1,testrecipient003@yahoo.com,P1-TC1-LE3,Check Manually
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient003@yahoo.com,P1-TC2-PE1,Check Manually
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient003@yahoo.com,P1-TC2-PE2,Check Manually
+2025-05-05 11:10:55,1,N,N,N,2,testrecipient003@yahoo.com,P1-TC2-PE3,Check Manually
